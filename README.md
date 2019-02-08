@@ -18,6 +18,14 @@ When you cloned this repo above, a folder/directory was created on your computer
 
 Open Visual Studio Code or the editor of your choice. Click "Open folder..." and navigate to the location that you found above, then click open. You should now see the files in this repository inside of your editor.
 
+### Updating your repository
+Later on, updates may be made to this repository on GitHub. You'll want to get those updates in your clone of the repo. To do that, you use the `git pull` command. If you still have your terminal open, you can try that command now.
+
+If you've closed your terminal, open it again. Type `ls` (Mac) or `dir` (Windows) and hit the enter key. You should a list of files and directories, including `how-to-web-dev`. Type `cd how-to-web-dev` and hit enter. Now, you should be able to do `git pull` sucessfully.
+
+## Next
+[Navigating the terminal.](terminal/README.md)
+
 ---
 ## Collaborating on this project
 _These instructions are intended for more experienced users; don't follow these instructions if you are doing the above setup for the first time._
