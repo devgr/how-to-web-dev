@@ -37,4 +37,4 @@ So far, we have been using _relative file paths_. That means navigating to a dir
 - Windows: Try `cd C:\Users` then `dir`. You should see the directories for each of the user accounts on your computer.
 
 ## Next up:
-There are many many more terminal commands that we will learn. But for now, it's time to learn some Python! (TODO)
+There are many many more terminal commands that we will learn. But for now, it's time to learn some Python! [Installing Python](/python/installing/README.md)

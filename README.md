@@ -24,7 +24,24 @@ Later on, updates may be made to this repository on GitHub. You'll want to get t
 If you've closed your terminal, open it again. Type `ls` (Mac) or `dir` (Windows) and hit the enter key. You should a list of files and directories, including `how-to-web-dev`. Type `cd how-to-web-dev` and hit enter. Now, you should be able to do `git pull` sucessfully.
 
 ## Next
-[Navigating the terminal.](terminal/README.md)
+[Navigating the Terminal](terminal/README.md)
+
+## Outline
+1. [Navigating the Terminal](terminal/README.md)
+2. [Installing Python](python/installing/README.md)
+3. [Python Basics: Numbers and Variables](python/numbers/README.md)
+4. [Python Basics: Interactive Python](python/interactive/README.md)
+5. Python Basics: Strings and I/O
+6. Python Basics: Logic
+7. Python Basics: Loops
+8. Python Basics: Functions
+9. Python Basics: Lists
+10. Python Basics: Dictionaries
+11. Python Basics: File I/O
+12. Troubleshooting Tips and Python Exception Handling
+13. Debugging Python
+14. Objects in Python
+15. Custom Objects - Python Class Basics
 
 ---
 ## Collaborating on this project
